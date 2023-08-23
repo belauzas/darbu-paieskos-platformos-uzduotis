@@ -8,28 +8,19 @@ Sukurti internetinę platformą, kur darbdaviai gali kelti darbo skelbimus. Real
 
 -   README failas:
     -   instrukcijos kaip pasileisti programą
-    -   administratoriaus prisijungimo duomenys
-    -   darbdavio prisijungimo duomenys
 -   projektas sukeltas į Github
-    -   **projekto pavadinimas** privalo būti tokio formato: "[VARDENIO]-darbo-paieskos-platforma"
-    -   repozitorija **privalo** būti privati
-    -   į repozitoriją **privalu** pakviesti mane kaip "collaborator", jog tik aš galėčiau matyti kodą, o ne pašaliniai; tai padaryti galima per nuorodą https://github.com/[USERNAME]/[PROJECT-NAME]/settings/access -> "Add people" ir įvedant "Belauzas"
-    -   suėjus projekto realizavimui skirtam laikui, repozitoriją pakeisti į "public"
 -   Frontend (FE) dalis pagaminta su: HTML, CSS/Bootstrap, JavaScript, React
 -   Backend (BE) dalis pagaminta su: Node.js/Express.js, MySQL
 -   TypeScript galima naudoti pasirinktinai
 -   slaptažodžiai privalo būti šifruojami
 -   Informacijos mainai tarp FE ir BE vyskta per REST API
--   **Projektas privalo pasileisti ir veikti; Priešingu atveju, bendras vertinimas bus lygus tik tiek kiek bus surinkta iš "Dokumentacijos" reikalavimų vertinimo skilties (t.y. viso max 1 balas).**
+-   Projektas privalo pasileisti ir veikti
 
 ## Projekto reikalavimai
 
 -   tvarkingai atrodantis ir responsive dizainas
 -   vartotojo sąsaja - SPA
 -   formų duomenys validuojami ir turi aiškias/konkrečias klaidų žinutes
--   du pradiniai vartotojai:
-    -   email: admin@admin.lt; password: admin@admin.lt
-    -   email: user@user.lt; password: user@user.lt
 
 ## Užduoties reikalavimai
 
